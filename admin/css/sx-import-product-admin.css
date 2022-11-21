@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.btn-import {
+    padding: 10px;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+
+.loading-icon {
+    vertical-align: middle;
+    margin: 5px 10px;
+}
+.submit-emails input[type="text"] {
+    width: 80%
+}

@@ -1,0 +1,12 @@
+{
+    "name": "soxes/importproducts",
+    "authors": [
+        {
+            "name": "truc.nguyen",
+            "email": "truc.nguyen@soxes.ch"
+        }
+    ],
+    "require": {
+        "hakre/xmlreaderiterator": "^0.1.10"
+    }
+}

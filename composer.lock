@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "da46a6acfc917a20aae24bd8fd7f2775",
+    "packages": [
+        {
+            "name": "hakre/xmlreaderiterator",
+            "version": "v0.1.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hakre/XMLReaderIterator.git",
+                "reference": "42da6ef3c2fb839a40cc875aa31596915db758de"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hakre/XMLReaderIterator/zipball/42da6ef3c2fb839a40cc875aa31596915db758de",
+                "reference": "42da6ef3c2fb839a40cc875aa31596915db758de",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "autoload.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "AGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "hakre",
+                    "homepage": "http://hakre.wordpress.com/"
+                }
+            ],
+            "description": "Iterators for PHP XMLReader for ease of parsing",
+            "homepage": "https://github.com/hakre/XMLReaderIterator",
+            "keywords": [
+                "XMLReader",
+                "iterator",
+                "xml"
+            ],
+            "support": {
+                "issues": "https://github.com/hakre/XMLReaderIterator/issues",
+                "source": "https://github.com/hakre/XMLReaderIterator/tree/v0.1.10"
+            },
+            "time": "2015-07-06T22:42:57+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
