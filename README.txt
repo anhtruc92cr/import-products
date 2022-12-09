@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Truc Nguyen, Peter Lam
+Contributors: Truc Nguyen
 Donate link: https://soxes.ch/
 Tags: comments, spam
 Requires at least: 3.0.1
