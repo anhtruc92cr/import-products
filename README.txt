@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Truc Nguyen
-Donate link: https://soxes.ch/
+Email: anhtruc92@gmail.com
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
